@@ -1,0 +1,9 @@
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\arr116\bin\Debug\netcoreapp1.1\arr116.deps.json
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\arr116\bin\Debug\netcoreapp1.1\arr116.runtimeconfig.json
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\arr116\bin\Debug\netcoreapp1.1\arr116.runtimeconfig.dev.json
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\arr116\bin\Debug\netcoreapp1.1\arr116.dll
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\arr116\bin\Debug\netcoreapp1.1\arr116.pdb
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\arr116\obj\Debug\netcoreapp1.1\arr116.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\arr116\obj\Debug\netcoreapp1.1\arr116.AssemblyInfo.cs
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\arr116\obj\Debug\netcoreapp1.1\arr116.dll
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\arr116\obj\Debug\netcoreapp1.1\arr116.pdb
