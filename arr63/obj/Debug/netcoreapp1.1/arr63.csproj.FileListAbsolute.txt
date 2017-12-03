@@ -1,0 +1,10 @@
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\arr63\bin\Debug\netcoreapp1.1\arr63.deps.json
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\arr63\bin\Debug\netcoreapp1.1\arr63.runtimeconfig.json
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\arr63\bin\Debug\netcoreapp1.1\arr63.runtimeconfig.dev.json
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\arr63\bin\Debug\netcoreapp1.1\arr63.dll
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\arr63\bin\Debug\netcoreapp1.1\arr63.pdb
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\arr63\obj\Debug\netcoreapp1.1\arr63.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\arr63\obj\Debug\netcoreapp1.1\arr63.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\arr63\obj\Debug\netcoreapp1.1\arr63.AssemblyInfo.cs
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\arr63\obj\Debug\netcoreapp1.1\arr63.dll
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\arr63\obj\Debug\netcoreapp1.1\arr63.pdb

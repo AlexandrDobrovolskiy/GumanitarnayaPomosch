@@ -1,0 +1,10 @@
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\ar53\bin\Debug\netcoreapp1.1\ar53.deps.json
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\ar53\bin\Debug\netcoreapp1.1\ar53.runtimeconfig.json
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\ar53\bin\Debug\netcoreapp1.1\ar53.runtimeconfig.dev.json
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\ar53\bin\Debug\netcoreapp1.1\ar53.dll
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\ar53\bin\Debug\netcoreapp1.1\ar53.pdb
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\ar53\obj\Debug\netcoreapp1.1\ar53.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\ar53\obj\Debug\netcoreapp1.1\ar53.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\ar53\obj\Debug\netcoreapp1.1\ar53.AssemblyInfo.cs
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\ar53\obj\Debug\netcoreapp1.1\ar53.dll
+C:\Users\Alexandr\source\repos\GumanitarnayaPomosch\ar53\obj\Debug\netcoreapp1.1\ar53.pdb
